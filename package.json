@@ -1,0 +1,28 @@
+{
+  "name": "constructor",
+  "version": "1.0.0",
+  "description": "pure javascript constructor",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SergeyYakimov/js-constructor.git"
+  },
+  "keywords": [
+    "js",
+    "js-constructor",
+    "pure",
+    "js"
+  ],
+  "author": "Sergey Yakimov",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SergeyYakimov/js-constructor/issues"
+  },
+  "homepage": "https://github.com/SergeyYakimov/js-constructor#readme",
+  "devDependencies": {
+    "parcel-bundler": "^1.12.4"
+  }
+}
