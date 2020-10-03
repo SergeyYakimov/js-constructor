@@ -4,7 +4,7 @@
   "description": "pure javascript constructor",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "serve": "parcel ./src/index.html -p 4200 --open"
   },
   "repository": {
     "type": "git",
